@@ -1,7 +1,10 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Nguy%E1%BB%85n%20Tu%E1%BA%A5n&fontSize=42&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Software%20Engineer%20%26%20Builder&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+ <!-- Header Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+I'm+Nguy%E1%BB%85n+Tu%E1%BA%A5n;Full-stack+Developer+%7C+Builder;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+</div>
 
   <!-- Animated Typing Headline -->
   <a href="https://nguyentuan03.com">
